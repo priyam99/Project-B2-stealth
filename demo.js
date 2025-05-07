@@ -1,2 +1,2 @@
-console.log("hhi nana")
+console.log("")
 console.log("priyam")
